@@ -34,7 +34,7 @@
 
 Before start you need to install some tools on your computer.
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Besides is important that you got an text editor like[VSCode](https://code.visualstudio.com/)
+Besides is important that you got an text editor like [VSCode](https://code.visualstudio.com/)
 
 # 
 ### 🎲 Running Project
@@ -43,7 +43,7 @@ Besides is important that you got an text editor like[VSCode](https://code.visua
 # Clone this repositorie
 $ git clone <https://github.com/cainamagoncalves/nlw-letmeask.git>
 
-# Access the folder of project with:
+# Access the folder of project on terminal with:
 $ cd letmeask
 
 # Install dependencies
