@@ -30,36 +30,36 @@
 - [ ] Validate user to create a question
 - [ ] Others features in progress..
 
-### Pré-requisitos
+### Requirements
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+Before start you need to install some tools on your computer.
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Besides is important that you got an text editor like[VSCode](https://code.visualstudio.com/)
 
 # 
-### 🎲 Rodando o projeto
+### 🎲 Running Project
 
 ```bash
-# Clone este repositório
+# Clone this repositorie
 $ git clone <https://github.com/cainamagoncalves/nlw-letmeask.git>
 
-# Acesse a pasta do projeto no terminal/cmd
+# Access the folder of project with:
 $ cd letmeask
 
-# Instale as dependências
+# Install dependencies
 $ npm install
 
-# Execute a aplicação
+# Execute the app
 $ npm start
 
-# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+# The server was run in port:3000 - access <http://localhost:3000>
 ```
 
 #
 
-### 🛠 Tecnologias
+### 🛠 Technologies
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in project: 
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
@@ -69,4 +69,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 #
-### Desenvolvido com ❤ por Cainã Moara Adrean Gonçalves
+### Developed with ❤ by Cainã Moara Adrean Gonçalves
